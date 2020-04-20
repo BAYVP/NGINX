@@ -9,3 +9,17 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-
 3. Redirects with nginx
 
 https://www.digitalocean.com/community/tutorials/how-to-create-temporary-and-permanent-redirects-with-nginx
+
+Next, test to make sure that there are no syntax errors in any of your Nginx files:
+
+sudo nginx -t
+
+Save and close the file when you are finished.
+
+If there aren’t any problems, restart Nginx to enable your changes:
+
+sudo systemctl restart nginx
+
+path config :
+
+root@scslin:/etc/nginx/sites-available#default
