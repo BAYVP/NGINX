@@ -1,0 +1,11 @@
+1. How to install nginx :
+
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04#step-6-%E2%80%93-getting-familiar-with-important-nginx-files-and-directories
+
+2. How to secure nginx with let's encrypt
+
+https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04
+
+3. Redirects with nginx
+
+https://www.digitalocean.com/community/tutorials/how-to-create-temporary-and-permanent-redirects-with-nginx
