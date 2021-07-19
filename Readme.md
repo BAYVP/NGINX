@@ -306,7 +306,7 @@ certbot.service is a disabled or a static unit, not starting it.
 root@scslin:/home/scslin# sudo certbot update_account
 Saving debug log to /var/log/letsencrypt/letsencrypt.log
 Enter email address (used for urgent renewal and security notices) (Enter 'c' to
-cancel): nydalal@gmail.com
+cancel): 
 Starting new HTTPS connection (1): acme-v02.api.letsencrypt.org
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
